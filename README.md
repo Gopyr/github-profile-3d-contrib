@@ -1,5 +1,7 @@
 # GitHub Profile 3D Contrib
 
+Fork dari [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) yang dipakai untuk menghasilkan kalender kontribusi 3D di profil GitHub [Gopyr](https://github.com/Gopyr). Dokumentasi di bawah adalah dokumentasi upstream.
+
 ![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
 
 <!-- Language code order (except English) -->
